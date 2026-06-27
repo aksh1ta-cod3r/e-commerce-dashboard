@@ -13,4 +13,4 @@ Sum of Amount by Customer Name (bar chart) — highlights top customers by reven
 Quarter slicer — allows interactive filtering of all visuals by Qtr 1–Qtr 4 for time-based drill-down.
 
 Purpose: The dashboard was built to practice translating raw e-commerce transaction data into a structured analytics layer — using SQL for data cleaning/transformation and Power BI/DAX for modeling and visualization — and to extract actionable business insights such as seasonal profit dips and payment-channel concentration risk.
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4316bfba-464d-4c65-84a3-b81e39ebcc83" />
+
