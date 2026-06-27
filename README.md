@@ -1,3 +1,4 @@
+<img width="1920" height="1020" alt="powerbi dashboard1" src="https://github.com/user-attachments/assets/8ba21689-81d4-4e4f-87a1-a645d7734aec" />
  E-Commerce Sales Dashboard is an interactive Power BI report built to analyze sales, profit, and customer behavior for an e-commerce business. The dashboard consolidates transactional data into a single-page, decision-ready view covering revenue performance, profitability trends, product mix, payment behavior, and geographic distribution :)
 Key components:
 
